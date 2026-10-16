@@ -1,6 +1,6 @@
 # CS212 Final Project
 
-## File Structure (temporary only)
+## Project Structure
 ```
 CS212-FinalProject/
 ├── assets/                 # Game sprites and visual assets
@@ -45,7 +45,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
----
-
-## System infos (for now wala pa)
