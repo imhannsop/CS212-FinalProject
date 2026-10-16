@@ -15,6 +15,7 @@ CS212-FinalProject/
 ├── core/                         # Custom Data Structures (e.g., Doubly Linked List, Stack, Queue)
 ├── models/                       # Game object classes (e.g., Character state, Item metadata)
 └── utils/                        # Helper scripts (e.g., Pygame asset loader, constants, button UI)
+└── project-guide/                # CS212 officia; guidelines
 ```
 
 ## 1. Executive Summary & Project Charter
