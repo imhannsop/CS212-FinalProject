@@ -1,6 +1,6 @@
 # CS212-FinalProject System & Architecture Documentation
 
-## File Structure
+## File Structure (temporary only)
 ```
 CS212-FinalProject/
 ├── assets/                       # All visual graphics and game images
